@@ -13,7 +13,6 @@ function kilometerToMeter(kilometer){
 }
 
 
-
 // Budget calculation
 
 function budgetCalculator(watch, phone, laptop){
@@ -29,7 +28,6 @@ function budgetCalculator(watch, phone, laptop){
     }
     
 }
-
 
 
 // Hotel cost calculation
@@ -68,6 +66,7 @@ function hotelCost(days){
 }
 var cost = hotelCost(30);
 console.log(cost);
+
 
 // Mega named friend
 
