@@ -64,8 +64,6 @@ function hotelCost(days){
        return "Invalid Input";
    }
 }
-var cost = hotelCost(30);
-console.log(cost);
 
 
 // Mega named friend
